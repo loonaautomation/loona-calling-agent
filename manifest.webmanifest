@@ -1,0 +1,28 @@
+{
+  "name": "Loona Calling Agent",
+  "short_name": "Calling Agent",
+  "description": "AI voice agent that answers your business calls 24/7, talks to customers in English and Urdu, takes bookings, saves every detail and alerts you instantly.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
